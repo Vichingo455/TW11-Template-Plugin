@@ -5,8 +5,7 @@ INFORMATIONS ABOUT PLUGIN TEMPLATE
 Files:
 template.ini - Plugin file
 template_enable.bat - Enable plugin script
-template_disable.bat - Disable plugin
-                                          script
+template_disable.bat - Disable plugin script
 example.ini - Example of plugin
 
 ===========================================
