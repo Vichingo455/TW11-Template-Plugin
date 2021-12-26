@@ -33,4 +33,5 @@ Value: The value of the plugin if enabled
              to 0x1)
 
 ===========================================
-Download: https://github.com/Vichingo455/TW11-Template-Plugin/archive/refs/heads/master.zip
+Download:
+https://github.com/Vichingo455/TW11-Template-Plugin/archive/refs/heads/master.zip
