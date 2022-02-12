@@ -35,3 +35,4 @@ Value: The value of the plugin if enabled
 ===========================================
 Download:
 https://github.com/Vichingo455/TW11-Template-Plugin/archive/refs/heads/master.zip
+Plugin builder: https://github.com/Vichingo455/ThisIsWin11-Plugin-Builder/releases/latest
